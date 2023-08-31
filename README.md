@@ -41,9 +41,12 @@ independent of our will.
 
 
 ```
-Linphone is a free voice over IP softphone, SIP client and service. It may be used for audio and video direct calls and calls through any VoIP softswitch or IP-PBX. Linphone also provides the possibility to exchange instant messages. [https://linphone.org](https://linphone.org).
+Linphone is a free voice over IP softphone, SIP client and service. It may be used for audio
+and video direct calls and calls through any VoIP softswitch or IP-PBX. Linphone also provides
+the possibility to exchange instant messages. [https://linphone.org](https://linphone.org).
 
 linphone.slackonfig.sh install e put the application in the main menu.
+```
 
 Usage:
 ------
@@ -53,19 +56,18 @@ Download the Linphone AppImage [here](https://linphone.org/releases/linux/latest
 
 chmod +x linphone.slackonfig
 ./linphone.slackonfig
-
 ```
 
 
 **GNU General Public License:**
 -------------------------------
 ```
-These scripts are free software, you can redistribute and/or modify them within the
-terms of the GNU General Public License:
+Estes scripts/programas são softwares livres, você pode redistribuí-los e/ou modifica-los dentro dos
+termos da Licença Pública Geral GNU:
 ```
 > [General Public License](https://pt.wikipedia.org/wiki/GNU_General_Public_License)
 >
->Free Software Foundation (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+>Fundação do Software Livre (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 
 
 <p align="center" width="100%">
