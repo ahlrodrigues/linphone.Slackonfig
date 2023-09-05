@@ -52,7 +52,7 @@ Usage:
 ------
 ```
 Download linphone.slackonfig.sh in ~/Downloads
-Download the Linphone AppImage [here](https://linphone.org/releases/linux/latest_app);
+Download the Linphone AppImage [https://linphone.org/releases/linux/latest_app](https://linphone.org/releases/linux/latest_app);
 
 chmod +x linphone.slackonfig
 ./linphone.slackonfig
