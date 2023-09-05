@@ -26,45 +26,49 @@
 
 **Note:**
 ---------
-```
-The scripts in this directory are available in the hope they will be useful, but WITHOUT ANY
-OPERATIONAL WARRANTY, WITHOUT ANY WARRANTY OF FITNESS FOR ANY MARKET, WITHOUT ANY
-PARTICULAR APPLICATION GUARANTEE and NO TECHNICAL SUPPORT.
 
-Oh! some scripts may unexpectedly disappear due to strange forces
-independent of our will.
-```
+>The scripts in this directory are available in the hope they will be useful, but WITHOUT ANY
+>OPERATIONAL WARRANTY, WITHOUT ANY WARRANTY OF FITNESS FOR ANY MARKET, WITHOUT ANY
+>PARTICULAR APPLICATION GUARANTEE and NO TECHNICAL SUPPORT.
+>
+>Oh! some scripts may unexpectedly disappear due to strange forces
+>independent of our will.
+
 
 
 **Scripts and Functions:**
 --------------------------
 
+<p align="left" width="100%">
+    <img src="https://gitlab.linphone.org/uploads/-/system/project/avatar/297/linphone_logo.png?width=64">
+</p>
 
-```
-Linphone is a free voice over IP softphone, SIP client and service. It may be used for audio
-and video direct calls and calls through any VoIP softswitch or IP-PBX. Linphone also provides
-the possibility to exchange instant messages. [https://linphone.org](https://linphone.org).
+>Linphone is a free voice over IP softphone, SIP client and service. It may be used for audio
+>and video direct calls and calls through any VoIP softswitch or IP-PBX. Linphone also provides
+>the possibility to exchange instant messages. [https://linphone.org](https://linphone.org).
+>
+>linphone.slackonfig.sh install e put the application in the main menu.
 
-linphone.slackonfig.sh install e put the application in the main menu.
-```
 
 Usage:
 ------
-```
-Download linphone.slackonfig.sh in ~/Downloads
-Download the Linphone AppImage [https://linphone.org/releases/linux/latest_app](https://linphone.org/releases/linux/latest_app);
 
-chmod +x linphone.slackonfig
-./linphone.slackonfig
-```
+>Download linphone.slackonfig.sh in ~/Downloads
+>
+>Download the Linphone AppImage [here](https://new.linphone.org/technical-corner/linphone?qt-technical_corner=2#qt-technical_corner)
+>
+>chmod +x linphone.slackonfig
+>
+>./linphone.slackonfig
+
 
 
 **GNU General Public License:**
 -------------------------------
-```
-Estes scripts/programas são softwares livres, você pode redistribuí-los e/ou modifica-los
-dentro dos termos da Licença Pública Geral GNU:
-```
+
+>Estes scripts/programas são softwares livres, você pode redistribuí-los e/ou modifica-los
+>dentro dos termos da Licença Pública Geral GNU:
+>
 > [General Public License](https://pt.wikipedia.org/wiki/GNU_General_Public_License)
 >
 >Fundação do Software Livre (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
