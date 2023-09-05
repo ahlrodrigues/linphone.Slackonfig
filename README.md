@@ -62,8 +62,8 @@ chmod +x linphone.slackonfig
 **GNU General Public License:**
 -------------------------------
 ```
-Estes scripts/programas são softwares livres, você pode redistribuí-los e/ou modifica-los dentro dos
-termos da Licença Pública Geral GNU:
+Estes scripts/programas são softwares livres, você pode redistribuí-los e/ou modifica-los
+dentro dos termos da Licença Pública Geral GNU:
 ```
 > [General Public License](https://pt.wikipedia.org/wiki/GNU_General_Public_License)
 >
